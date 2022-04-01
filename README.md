@@ -1,4 +1,4 @@
-### Olá, eu sou a Fernanda Passos ✋
+### Hi. I'm Fernanda Passos ✋
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://fernandapassosf.com.br) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandaepassos) 
@@ -6,7 +6,7 @@
 
 ![Fernanda Passos GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandaepassos&show_icons=true&theme=radical)
 
-### Tecnologias que uso no meu dia  😉
+### Skills  😉
 
 <div style="display: inline_block"><br/>
     
@@ -20,8 +20,9 @@
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img aling="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img aling="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-    
+<img aling="center" alt="saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
 </div>
+
 
