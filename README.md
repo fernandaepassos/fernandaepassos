@@ -1,7 +1,6 @@
 ### Hi. I'm Fernanda Passos ✋
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://fernandapassosf.com.br) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fernandaepassos) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-p-084b5a121/)
 
 ![Fernanda Passos GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandaepassos&show_icons=true&theme=radical)
